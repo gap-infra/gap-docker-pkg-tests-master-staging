@@ -16,22 +16,15 @@ env:
 
   matrix:
     - PKG_NAME=atlasrep
-    - PKG_NAME=autodoc
-    - PKG_NAME=automata
     - PKG_NAME=crime
     - PKG_NAME=cryst
     - PKG_NAME=ctbllib
     - PKG_NAME=curlinterface
-    - PKG_NAME=deepthought
     - PKG_NAME=gbnp
-    - PKG_NAME=guarana
     - PKG_NAME=hapcryst
     - PKG_NAME=linboxing
     - PKG_NAME=loops
-    - PKG_NAME=lpres
-    - PKG_NAME=mapclass
     - PKG_NAME=polymaking
-    - PKG_NAME=recog
     - PKG_NAME=sgpviz
     - PKG_NAME=simpcomp
     - PKG_NAME=tomlib
