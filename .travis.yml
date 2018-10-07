@@ -26,6 +26,7 @@ env:
     - PKG_NAME=polymaking
     - PKG_NAME=sgpviz
     - PKG_NAME=simpcomp
+    - PKG_NAME=sonata
     - PKG_NAME=tomlib
     - PKG_NAME=wedderga
 
