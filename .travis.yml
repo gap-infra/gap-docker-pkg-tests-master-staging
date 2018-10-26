@@ -16,17 +16,13 @@ env:
 
   matrix:
     - PKG_NAME=atlasrep
-    - PKG_NAME=cryst
     - PKG_NAME=ctbllib
-    - PKG_NAME=curlinterface
     - PKG_NAME=gbnp
     - PKG_NAME=hapcryst
     - PKG_NAME=loops
     - PKG_NAME=polymaking
     - PKG_NAME=sgpviz
-    - PKG_NAME=simpcomp
     - PKG_NAME=sonata
-    - PKG_NAME=tomlib
 
 services:
   - docker
