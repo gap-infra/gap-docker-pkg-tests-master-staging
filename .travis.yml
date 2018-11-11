@@ -20,6 +20,7 @@ env:
     - PKG_NAME=ctbllib # default 26 DIFFS | no pkg 26 DIFFS | all pkg 26 DIFFS
     - PKG_NAME=gbnp # default 1 DIFFS | no pkg 1 DIFFS | all pkg 1 DIFFS
     - PKG_NAME=grpconst # timeout in Travis
+    - PKG_NAME=guarana # default 16 DIFFS | no pkg 16 DIFFS | all pkg 16 DIFFS
     - PKG_NAME=hapcryst # default 9 DIFFS | no pkg 9 DIFFS | all pkg 9 DIFFS
     - PKG_NAME=polymaking # default 5 DIFFS | no pkg 5 DIFFS | all pkg 5 DIFFS
 
