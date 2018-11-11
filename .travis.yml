@@ -16,6 +16,7 @@ env:
 
   matrix:
     - PKG_NAME=atlasrep # default 6 DIFFS | no pkg 8 DIFFS | all pkg 6 DIFFS
+    - PKG_NAME=automgrp # default 1 DIFFS | no pkg 1 DIFFS | all pkg 1 DIFFS
     - PKG_NAME=ctbllib # default 26 DIFFS | no pkg 26 DIFFS | all pkg 26 DIFFS
     - PKG_NAME=gbnp # default 1 DIFFS | no pkg 1 DIFFS | all pkg 1 DIFFS
     - PKG_NAME=hapcryst # default 9 DIFFS | no pkg 9 DIFFS | all pkg 9 DIFFS
