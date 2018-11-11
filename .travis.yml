@@ -15,11 +15,11 @@ env:
     - GAPDIRNAME="gap-master"
 
   matrix:
-    - PKG_NAME=atlasrep
-    - PKG_NAME=ctbllib
-    - PKG_NAME=gbnp
-    - PKG_NAME=hapcryst
-    - PKG_NAME=polymaking
+    - PKG_NAME=atlasrep # default 6 DIFFS | no pkg 8 DIFFS | all pkg 6 DIFFS
+    - PKG_NAME=ctbllib # default 26 DIFFS | no pkg 26 DIFFS | all pkg 26 DIFFS
+    - PKG_NAME=gbnp # default 1 DIFFS | no pkg 1 DIFFS | all pkg 1 DIFFS
+    - PKG_NAME=hapcryst # default 9 DIFFS | no pkg 9 DIFFS | all pkg 9 DIFFS
+    - PKG_NAME=polymaking # default 5 DIFFS | no pkg 5 DIFFS | all pkg 5 DIFFS
 
 services:
   - docker
