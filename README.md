@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/gap-system/gap-docker-pkg-tests-master-staging.svg?branch=master)](https://travis-ci.org/gap-system/gap-docker-pkg-tests-master-staging)
+[![Build Status](https://travis-ci.org/gap-infra/gap-docker-pkg-tests-master-staging.svg?branch=master)](https://travis-ci.org/gap-infra/gap-docker-pkg-tests-master-staging)
 
 # gap-docker-pkg-tests-master-staging
 
@@ -8,4 +8,4 @@ from the tip of the master branch and packages from the archive
 https://www.gap-system.org/pub/gap/gap4pkgs/packages-master.tar.gz
 
 All tests in this repository should fail. All currently passing package
-tests are in https://github.com/gap-system/gap-docker-pkg-tests-master.
+tests are in https://github.com/gap-infra/gap-docker-pkg-tests-master.
