@@ -9,3 +9,6 @@ https://www.gap-system.org/pub/gap/gap4pkgs/packages-master.tar.gz
 
 All tests in this repository should fail. All currently passing package
 tests are in https://github.com/gap-infra/gap-docker-pkg-tests-master.
+
+For the full list of all publicly available tests from the GAP test suite
+see https://github.com/gap-system/gap-distribution/blob/master/README.md
