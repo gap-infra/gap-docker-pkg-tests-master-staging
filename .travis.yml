@@ -18,15 +18,19 @@ env:
     - PKG_NAME=atlasrep # default 6 DIFFS | no pkg 8 DIFFS | all pkg 6 DIFFS
     - PKG_NAME=automgrp # default 1 DIFFS | no pkg 1 DIFFS | all pkg 1 DIFFS
     - PKG_NAME=ctbllib # default 26 DIFFS | no pkg 26 DIFFS | all pkg 26 DIFFS
+    - PKG_NAME=datastructures # default PASS | no pkg PASS | all pkg 1 DIFFS
+    - PKG_NAME=ferret # default PASS | no pkg PASS | all pkg 2 DIFFS
     - PKG_NAME=gbnp # default 1 DIFFS | no pkg 1 DIFFS | all pkg 1 DIFFS
-    - PKG_NAME=guarana # default 16 DIFFS | no pkg 16 DIFFS | all pkg 16 DIFFS
     - PKG_NAME=hapcryst # default 9 DIFFS | no pkg 9 DIFFS | all pkg 9 DIFFS
     - PKG_NAME=help # see https://github.com/gap-packages/HeLP/issues/3
-    - PKG_NAME=nq # default 7 DIFFS | no pkg 7 DIFFS | all pkg 7 DIFFS
+    - PKG_NAME=jupyterviz # default 22 DIFFS | no pkg 22 DIFFS | all pkg 22 DIFFS
     - PKG_NAME=polycyclic # default PASS | no pkg PASS | all pkg 2 DIFFS
     - PKG_NAME=polymaking # default 5 DIFFS | no pkg 5 DIFFS | all pkg 5 DIFFS
     - PKG_NAME=profiling # default 1 DIFFS | no pkg 1 DIFFS | all pkg 1 DIFFS
     - PKG_NAME=rcwa # default 12 DIFFS | no pkg 12 DIFFS | all pkg 13 DIFFS
+    - PKG_NAME=recog # default PASS | no pkg PASS | all pkg 1 DIFFS
+    - PKG_NAME=sonata # default PASS | no pkg PASS | all pkg 2 DIFFS
+    - PKG_NAME=xmod # default PASS | no pkg PASS | all pkg 1 DIFFS
 
 services:
   - docker
