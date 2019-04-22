@@ -25,7 +25,6 @@ env:
     - PKG_NAME=hapcryst # default 9 DIFFS | no pkg 9 DIFFS | all pkg 9 DIFFS
     - PKG_NAME=help # see https://github.com/gap-packages/HeLP/issues/3
     - PKG_NAME=intpic
-    - PKG_NAME=packagemanager
     - PKG_NAME=polycyclic # default PASS | no pkg PASS | all pkg 2 DIFFS
     - PKG_NAME=polymaking # default 5 DIFFS | no pkg 5 DIFFS | all pkg 5 DIFFS
     - PKG_NAME=rcwa # default 12 DIFFS | no pkg 12 DIFFS | all pkg 13 DIFFS
