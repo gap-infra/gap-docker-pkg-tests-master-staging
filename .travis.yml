@@ -35,6 +35,7 @@ env:
     - PKG_NAME=polymaking
     - PKG_NAME=rcwa
     - PKG_NAME=recog
+    - PKG_NAME=semigroups
     - PKG_NAME=sla
     - PKG_NAME=sonata
     - PKG_NAME=utils
