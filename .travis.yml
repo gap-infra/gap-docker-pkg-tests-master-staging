@@ -20,6 +20,7 @@ env:
     - PKG_NAME=autpgrp
     - PKG_NAME=ctbllib
     - PKG_NAME=datastructures
+    - PKG_NAME=edim
     - PKG_NAME=ferret
     - PKG_NAME=format
     - PKG_NAME=fr
