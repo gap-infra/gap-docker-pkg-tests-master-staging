@@ -31,6 +31,7 @@ env:
     - PKG_NAME=numericalsgps
     - PKG_NAME=openmath
     - PKG_NAME=orb
+    - PKG_NAME=packagemanager
     - PKG_NAME=polycyclic
     - PKG_NAME=polymaking
     - PKG_NAME=rcwa
