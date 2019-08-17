@@ -17,7 +17,6 @@ env:
   matrix:
     - PKG_NAME=atlasrep
     - PKG_NAME=automgrp
-    - PKG_NAME=autpgrp
     - PKG_NAME=ctbllib
     - PKG_NAME=datastructures
     - PKG_NAME=ferret
@@ -37,6 +36,7 @@ env:
     - PKG_NAME=rcwa
     - PKG_NAME=recog
     - PKG_NAME=semigroups
+    - PKG_NAME=simpcomp
     - PKG_NAME=sla
     - PKG_NAME=sonata
     - PKG_NAME=utils
