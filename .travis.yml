@@ -17,6 +17,7 @@ env:
   matrix:
     - PKG_NAME=atlasrep
     - PKG_NAME=automgrp
+    - PKG_NAME=cryst
     - PKG_NAME=ctbllib
     - PKG_NAME=datastructures
     - PKG_NAME=ferret
