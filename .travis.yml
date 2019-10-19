@@ -10,9 +10,9 @@ env:
 
   matrix:
     - PKG_NAME=atlasrep
-    - PKG_NAME=automgrp
     - PKG_NAME=cryst
     - PKG_NAME=ctbllib
+    - PKG_NAME=datastructures
     - PKG_NAME=ferret
     - PKG_NAME=fr
     - PKG_NAME=gbnp
@@ -20,14 +20,11 @@ env:
     - PKG_NAME=hapcryst
     - PKG_NAME=help # see https://github.com/gap-packages/HeLP/issues/3
     - PKG_NAME=openmath
-    - PKG_NAME=orb
     - PKG_NAME=packagemanager
-    - PKG_NAME=polycyclic
     - PKG_NAME=polymaking
     - PKG_NAME=rcwa
     - PKG_NAME=recog
     - PKG_NAME=simpcomp
-    - PKG_NAME=singular
     - PKG_NAME=sla
     - PKG_NAME=sonata
     - PKG_NAME=utils
