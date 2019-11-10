@@ -10,7 +10,6 @@ env:
 
   matrix:
     - PKG_NAME=atlasrep
-    - PKG_NAME=cryst
     - PKG_NAME=ctbllib
     - PKG_NAME=datastructures
     - PKG_NAME=ferret
@@ -18,10 +17,11 @@ env:
     - PKG_NAME=gbnp
     - PKG_NAME=groupoids
     - PKG_NAME=hapcryst
-    - PKG_NAME=help # see https://github.com/gap-packages/HeLP/issues/3
+    - PKG_NAME=help
     - PKG_NAME=openmath
     - PKG_NAME=packagemanager
     - PKG_NAME=polymaking
+    - PKG_NAME=quagroup
     - PKG_NAME=rcwa
     - PKG_NAME=recog
     - PKG_NAME=simpcomp
@@ -29,6 +29,7 @@ env:
     - PKG_NAME=sonata
     - PKG_NAME=utils
     - PKG_NAME=xmod
+    - PKG_NAME=yangbaxter
 
 services:
   - docker
