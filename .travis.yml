@@ -17,6 +17,7 @@ env:
     - PKG_NAME=gbnp
     - PKG_NAME=groupoids
     - PKG_NAME=hapcryst
+    - PKG_NAME=hap
     - PKG_NAME=help
     - PKG_NAME=openmath
     - PKG_NAME=packagemanager
@@ -24,6 +25,7 @@ env:
     - PKG_NAME=quagroup
     - PKG_NAME=rcwa
     - PKG_NAME=recog
+    - PKG_NAME=semigroups
     - PKG_NAME=simpcomp
     - PKG_NAME=sla
     - PKG_NAME=sonata
