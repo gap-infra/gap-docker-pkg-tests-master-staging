@@ -9,6 +9,7 @@ env:
     - GAPCONTAINER="gapsystem/gap-docker-master"
 
   matrix:
+    - PKG_NAME=agt
     - PKG_NAME=atlasrep
     - PKG_NAME=ctbllib
     - PKG_NAME=datastructures
@@ -19,12 +20,14 @@ env:
     - PKG_NAME=hapcryst
     - PKG_NAME=hap
     - PKG_NAME=help
+    - PKG_NAME=nilmat
     - PKG_NAME=openmath
     - PKG_NAME=packagemanager
     - PKG_NAME=polymaking
     - PKG_NAME=quagroup
     - PKG_NAME=rcwa
     - PKG_NAME=recog
+    - PKG_NAME=repndecomp
     - PKG_NAME=semigroups
     - PKG_NAME=simpcomp
     - PKG_NAME=sla
