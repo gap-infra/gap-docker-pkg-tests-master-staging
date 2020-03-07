@@ -13,7 +13,6 @@ env:
     - PKG_NAME=atlasrep
     - PKG_NAME=cryst
     - PKG_NAME=ctbllib
-    - PKG_NAME=datastructures
     - PKG_NAME=ferret
     - PKG_NAME=fr
     - PKG_NAME=gbnp
@@ -21,7 +20,6 @@ env:
     - PKG_NAME=hapcryst
     - PKG_NAME=hap
     - PKG_NAME=help
-    - PKG_NAME=nilmat
     - PKG_NAME=numericalsgps
     - PKG_NAME=openmath
     - PKG_NAME=packagemanager
@@ -29,13 +27,11 @@ env:
     - PKG_NAME=quagroup
     - PKG_NAME=rcwa
     - PKG_NAME=recog
-    - PKG_NAME=repndecomp
     - PKG_NAME=semigroups
     - PKG_NAME=simpcomp
     - PKG_NAME=sla
     - PKG_NAME=sonata
     - PKG_NAME=transgrp
-    - PKG_NAME=utils
     - PKG_NAME=xmod
     - PKG_NAME=yangbaxter
 
